@@ -43,7 +43,7 @@ int signup(int *user_Count)
     }
 
     // Get team choice
-    printf(WHITE"CHOOSE TEAM (1 FOR OEH, 2 FOR LSH): "RESET);
+    printf(WHITE"CHOOSE TEAM (1 FOR SSH, 2 FOR LSH): "RESET);
     scanf("%d", &teamChoice);
 
     if (teamChoice < 1 || teamChoice > 2)
