@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)  
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
-**BIG BASH** is a dynamic C programming project designed to simulate the thrill of a three-over cricket final between **OMOR EKUSHEY HALL** and **LALON SHAH HALL**. This project uses randomization techniques to create unique gameplay experiences, where runs, wickets, and balls bowled unfold unpredictably. It serves as an engaging way to explore fundamental C programming concepts while providing an interactive and entertaining cricket simulation.
+**BIG BASH** is a dynamic C programming project designed to simulate the thrill of a three-over cricket final between **OMOR EKUSHEY HALL** and **SHAHID SMRITY HALL**. This project uses randomization techniques to create unique gameplay experiences, where runs, wickets, and balls bowled unfold unpredictably. It serves as an engaging way to explore fundamental C programming concepts while providing an interactive and entertaining cricket simulation.
 
 ---
 
