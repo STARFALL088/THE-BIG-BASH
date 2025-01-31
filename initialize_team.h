@@ -3,7 +3,7 @@
 void initialize_Teams(Team teams[])
 {
     strcpy(teams[0].name, "OMOR EKUSHEY HALL");
-    strcpy(teams[1].name, "LALON SHAH HALL");
+    strcpy(teams[1].name, "SHAHID SMRITY HALL");
     teams[0].batsman_Count = 0;
     teams[0].bowler_Count = 0;
     teams[1].batsman_Count = 0;
